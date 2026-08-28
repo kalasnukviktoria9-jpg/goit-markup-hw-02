@@ -1,0 +1,73 @@
+.team-nr {
+  padding: 24px 0;
+  width: 42px;
+  height: 72px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.team {
+  background-color: #f4f4fd;
+  padding: 120px 0;
+}
+
+.team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.team-item {
+  background-color: #ffffff;
+}
+
+.team-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-role {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.team {
+  background-color: #ffffff;
+  padding: 120px 0;
+}
+.team {
+  background-color: #f4f4fd; /* Сірий фон для всієї секції */
+  padding: 120px 0;
+}
+
+.team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+  margin-bottom: 72px;
+}
+.team-name {
+  text-align: center;
+}
+.team-item {
+  list-style: none;
+  padding-left: 0px;
+}
+.team-section {
+  background-color: #f4f4fd;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+}
