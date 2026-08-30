@@ -3,7 +3,11 @@
 }
 
 .features-title {
-  /* Заголовок секції має бути з великої літери "Our Features" */
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .features-subtitle {
